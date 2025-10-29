@@ -11,5 +11,5 @@
     <li><a href="/downloads/fringelands_mod">Allam A's Fringelands</a></li>
 </ul>
 <p>
-    For any support, contact the Horizons Modding Team at <a href="https://discord.gg/FtG7r7wHwS">our Discord server</a>
+    For any support, contact the Horizons Modding Team at <a href="https://discord.gg/VjnuBAwdNZ">our Discord server</a>
 </p>
