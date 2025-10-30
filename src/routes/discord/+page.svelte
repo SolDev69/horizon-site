@@ -1,1 +1,2 @@
-+<svelte:head><meta http-equiv="Refresh" content="0; url='https://discord.gg/VjnuBAwdNZ'" /></svelte:head>
+Redirecting...
+<svelte:head><meta http-equiv="Refresh" content="0; url='https://discord.gg/VjnuBAwdNZ'" /></svelte:head>
