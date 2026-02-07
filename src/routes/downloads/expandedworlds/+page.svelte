@@ -180,6 +180,8 @@
 <ul>
     <li>
         <a href="https://modrinth.com/mod/mcbig-legacy/">Modrinth page</a>
+    </li>
+    <li>
         <a href="https://github.com/AlphaMode/MinecraftBig-Legacy">Source</a>
     </li>
 </ul>
