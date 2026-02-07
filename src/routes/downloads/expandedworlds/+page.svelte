@@ -199,6 +199,24 @@
         <a href="https://github.com/AlphaMode/MinecraftLong2/tree/1.20.1-big">Source</a>
     </li>
 </ul>
+<h3>1.20.4 (AlphaMode)</h3>
+<ul>
+    <li>
+        <a href="https://github.com/AlphaMode/MinecraftBig3/tree/1.20.4-big">Source</a>
+    </li>
+</ul>
+<h3>24w14potato (AlphaMode)</h3>
+<ul>
+    <li>
+        <a href="https://github.com/AlphaMode/MinecraftBig3/tree/potato-big">Source</a>
+    </li>
+</ul>
+<h3>1.21.4 (AlphaMode)</h3>
+<ul>
+    <li>
+        <a href="https://github.com/AlphaMode/MinecraftBig3/tree/1.21.4">Source</a>
+    </li>
+</ul>
 <style>
     h2 {
         margin-top: 1rem;
