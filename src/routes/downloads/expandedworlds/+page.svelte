@@ -179,6 +179,7 @@
 <h3>b1.7.3 (AlphaMode)</h3>
 <ul>
     <li>
+        <a href="https://modrinth.com/mod/mcbig-legacy/">Modrinth page</a>
         <a href="https://github.com/AlphaMode/MinecraftBig-Legacy">Source</a>
     </li>
 </ul>
