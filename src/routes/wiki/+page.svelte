@@ -26,8 +26,7 @@ like <code>version-mod</code> where <code>version</code> is the Minecraft versio
 <code>mod</code> is the mod you are installing (ie: 64bit, BigInt, etc). Edit the json and delete
 everything between "client" and (but not including) "server". Then find where it
 says <code>"id": version</code> and change the version to what you named the files previously.
-Save everything and reopen your launcher. Please note, 1.3.2-BigInteger will likely
-not work on PojavLauncher without patching.</p>
+Save everything and reopen your launcher.</p>
 
 <!-- TODO: Add images -->
 
