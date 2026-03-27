@@ -37,10 +37,20 @@
     </li>
 </ul>
 
-<h3>Infdev 20100420 (Zero)</h3>
+<h3>Infdev 20100420 (314rft, Zero)</h3>
 <ul>
     <li>
+        <a href="/mods/64bit/infdev/inf-20100420/minecraft_inf-20100420_64bit_v2_314rft.zip">v2.0 (314rft)</a>
+    </li>
+    <li>
         <a href="/mods/64bit/infdev/inf-20100420/minecraft-inf-20100420-v1-zero.zip">v1.0 (Zero)</a>
+    </li>
+</ul>
+
+<h3>Infdev 20100624 (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/infdev/inf-20100624/minecraft_inf-20100624_64bit_v1_314rft.zip">v1.0</a>
     </li>
 </ul>
 
@@ -68,6 +78,46 @@
         <a href="/mods/64bit/alpha/a1.0.1_01/ZZ-64bit_alpha_v1.0.1_01-0.0.3_02.zip">v0.0.3_02</a>
     </li>
 </ul>
+<h3>Alpha v1.0.6_03 (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/alpha/a1.0.6_03/minecraft_a1.0.6_03_64bit_v1_314rft.zip">v1.0</a>
+    </li>
+</ul>
+
+<h3>Alpha v1.0.13_01 (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/alpha/a1.0.13_01/minecraft_a1.0.13_01_64bit_v1_314rft.zip">v1.0</a>
+    </li>
+</ul>
+
+<h3>Alpha v1.1.1 (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/alpha/a1.1.1/minecraft_a111_64bit_v1_314rft.zip">v1.0</a>
+    </li>
+</ul>
+
+<h3>Alpha v1.1.2 (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/alpha/a1.1.2/minecraft_a112_64bit_v1_314rft.zip">v1.0</a>
+    </li>
+</ul>
+
+<h3>Alpha v1.1.2_01 (314rft, Zero)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/alpha/a1.1.2_01/minecraft_a1.1.2_01_64bit_v1.1_314rft.zip">v1.1 (314rft)</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/alpha/a1.1.2_01/minecraft-a1.1.2_01-v1-zero.zip">v1.0 (Zero) (Client)</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/alpha/a1.1.2_01/minecraft_server-a1.1.2_01-v1-zero.zip">v1.0 (Zero) (Server)</a>
+    </li>
+</ul>
 
 <h3>Alpha v1.1.2_01 (Zero)</h3>
 <ul>
@@ -87,6 +137,16 @@
     </li>
 </ul>
 
+<h3>Beta 1.2_02 + Aether (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/beta/b1.2_02-aether/minecraft_b1.2_02_64bit_aether_v0.6.zip">v0.6 (client)</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/beta/b1.2_02-aether/minecraft_server_b1.2_01_64bit_aether_v0.6.zip">v0.6 (server)</a>
+    </li>
+</ul>
+
 <h3>Beta 1.7.3 (Zero)</h3>
 <ul>
     <li>
@@ -95,6 +155,40 @@
 </ul>
 
 <h2>Release:</h2>
+<h3>1.0.0 (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/release/1.0.0/minecraft_1.0.0_64bit_v1_314rft.zip">v1.0</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/release/1.0.0/minecraft_1.0.0_64bit_v2_314rft.zip">v2.0</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/release/1.0.0/minecraft_1.0.0_64bit_v3.1_314rft.zip">v3.1</a>
+    </li>
+</ul>
+
+<h3>1.2.5 (314rft)</h3>
+<ul>
+    <li>
+        <a href="/mods/64bit/release/1.2.5/1_2_5_64bitcoords_v2.zip">v2.0</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/release/1.2.5/1_2_5_64bitcoords_v3.zip">v3.0</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/release/1.2.5/1_2_5_64bitcoords_v4.zip">v4.0</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/release/1.2.5/1_2_5_64bitcoords_v5.zip">v5.0</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/release/1.2.5/1_2_5_64bitcoords_v6.zip">v6.0</a>
+    </li>
+    <li>
+        <a href="/mods/64bit/release/1.2.5/1_2_5_64bitcoords_v6_1.zip">v6.1</a>
+    </li>
+</ul>
 <h3>1.5.2 (Zero)</h3>
 <ul>
     <li>
