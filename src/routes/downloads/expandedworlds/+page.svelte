@@ -140,10 +140,10 @@
 <h3>Beta 1.2_02 + Aether (314rft)</h3>
 <ul>
     <li>
-        <a href="/mods/64bit/beta/b1.2_02-aether/minecraft_b1.2_02_64bit_aether_v0.6.zip">v0.6 (client)</a>
+        <a href="/mods/64bit/beta/b1.2_02-aether/minecraft_b1.2_02_64bit_aether_v0.6_01_314rft.zip">v0.6_01 (client)</a>
     </li>
     <li>
-        <a href="/mods/64bit/beta/b1.2_02-aether/minecraft_server_b1.2_01_64bit_aether_v0.6.zip">v0.6 (server)</a>
+        <a href="/mods/64bit/beta/b1.2_02-aether/minecraft_server_b1.2_01_64bit_aether_v0.6_01_314rft.zip">v0.6_01 (server)</a>
     </li>
 </ul>
 
